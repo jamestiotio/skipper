@@ -11,7 +11,7 @@ We were inspired by [Skippa](https://youtu.be/M0_U1FHwACk "Skippa by Mark Rober"
 1. With a budget limit of SGD$60, the clay pigeon thrower used by Mark Rober was out. Thus, we (tried to) build the whole device from scratch. This implies that we utilised a simpler throwing mechanism.
 2. Materials used:
 
-  * Plywood for the thrower
+  * Plywood and acrylic for the thrower
   * PVC pipes and mahogany wood for the base
   * Polymer clay for the stones
 
@@ -26,7 +26,9 @@ Our best attempt in terms of number of skips (yep, that's me in the yellow-green
 
 ![best-attempt](./assets/skipper-best-attempt.gif)
 
-[Bill of materials](./Skipper-BOM.xlsx) and [our project report](./Physics_1D_F07-Grp08.pdf) are included in this repository. CAD file is coming soon.
+[Bill of materials](./Skipper-BOM.xlsx), [CAD file v1.0](./Skipper-Assembly.step) and [our project report](./Physics_1D_F07-Grp08.pdf) are included in this repository.
+
+Do take note that the spring is not included in the CAD file. The 'Base' part in the CAD file is not essential since it serves only as an anchoring foundation at the beach. Keep in mind that the CAD file is a work-in-progress.
 
 ## Acknowledgement
 
